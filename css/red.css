@@ -1,0 +1,18 @@
+body{
+	background: url('../img/rojo.jpg');
+	background-attachment: fixed;
+}
+#logo{
+	background: #CA3413;
+}
+#menu ul li:hover{
+	background: #CA3413;
+}
+.boton-mas{
+	background: #CA3413;
+}
+.ui-accordion .ui-accordion-header{
+	background: #CA3413;
+	color: white;
+	font-family: helvetica, arial;
+}
